@@ -1,0 +1,2 @@
+# inf122
+repositorio de CARLA ABIGAIL MAMANI TTIRADO

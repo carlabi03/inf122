@@ -2,7 +2,7 @@ import React from 'react';
 import '../style/Tablero.css';
 import CuadroB from './CuadroB';
 
-function TableroD({ cuadros, onClick }) {
+function TableroE({ cuadros, onClick }) {
     function renderizarCuadro(i) {
         return (
             <CuadroB
@@ -28,4 +28,4 @@ function TableroD({ cuadros, onClick }) {
         </div>
     );
 }
-export default TableroD;
+export default TableroE;
